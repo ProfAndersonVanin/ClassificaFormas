@@ -1,0 +1,3 @@
+0 Circulos
+1 Quadrados
+2 Triangulos
